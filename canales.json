@@ -5,4 +5,67 @@
     "emoji": "🦊",
     "hora": "EN VIVO"
   }
+],
+[
+  {
+    "nombre": "TyC Sports",
+    "emoji": "🇦🇷",
+    "hora": "24/7",
+    "fuentes": [
+      { "label": "Fuente 1 - FutbolLibre", "url": "https://futbollibretv.su/tyc-sports/" },
+      { "label": "Fuente 2 - LatamVidz", "url": "https://latamvidz1.com/canal.php?stream=tycsports" },
+      { "label": "Fuente 3 - La14HD", "url": "https://la14hd.com/vivo/canales.php?stream=tycsports" },
+      { "label": "Fuente 4 - StreamTP", "url": "https://streamtpnew.com/global1.php?stream=tycsports" },
+      { "label": "Fuente 5 - CanalDep", "url": "https://elcanaldeportivo.com/tycsports-sd.php" }
+    ]
+  },
+  {
+    "nombre": "DirecTV Sports",
+    "emoji": "📡",
+    "hora": "24/7",
+    "fuentes": [
+      { "label": "Fuente 1 - FutbolLibre", "url": "https://futbollibretv.su/directv-sports/" },
+      { "label": "Fuente 2 - LatamVidz", "url": "https://latamvidz1.com/canal.php?stream=dsports" },
+      { "label": "Fuente 3 - La14HD", "url": "https://la14hd.com/vivo/canal.php?stream=dsports" },
+      { "label": "Fuente 4 - CanalDep", "url": "https://elcanaldeportivo.com/directvsports.php" }
+    ]
+  },
+  {
+    "nombre": "TNT Sports",
+    "emoji": "💥",
+    "hora": "24/7",
+    "fuentes": [
+      { "label": "Fuente 1 - LatamVidz", "url": "https://latamvidz1.com/canal.php?stream=tntsports" },
+      { "label": "Fuente 2 - La14HD", "url": "https://la14hd.com/vivo/canal.php?stream=tntsports" },
+      { "label": "Fuente 3 - StreamTP", "url": "https://streamtpnew.com/global1.php?stream=tntsports" },
+      { "label": "Fuente 4 - CanalDep", "url": "https://elcanaldeportivo.com/tntsports.php" }
+    ]
+  },
+  {
+    "nombre": "ESPN Premium",
+    "emoji": "🏆",
+    "hora": "24/7",
+    "fuentes": [
+      { "label": "Fuente 1 - LatamVidz", "url": "https://latamvidz1.com/canal.php?stream=espnpremium" },
+      { "label": "Fuente 2 - La14HD", "url": "https://la14hd.com/vivo/canal.php?stream=espnpremium" },
+      { "label": "Fuente 3 - StreamTP", "url": "https://streamtpnew.com/global1.php?stream=espnpremium" },
+      { "label": "Fuente 4 - CanalDep", "url": "https://elcanaldeportivo.com/espnpremium.php" }
+    ]
+  },
+  {
+    "nombre": "Fox Sports",
+    "emoji": "🦊",
+    "hora": "24/7",
+    "fuentes": [
+      { "label": "Fuente 1 - FutbolLibre", "url": "https://futbollibretv.su/fox-sports/" }
+    ]
+  },
+  {
+    "nombre": "TUDN",
+    "emoji": "⚽",
+    "hora": "24/7",
+    "fuentes": [
+      { "label": "Fuente 1 - FutbolLibre", "url": "https://futbollibretv.su/tudn/" }
+    ]
+  }
 ]
