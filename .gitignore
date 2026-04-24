@@ -1,0 +1,17 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Android
+android/.gradle/
+android/app/build/
+*.apk
+*.aab
+
+# IDE
+.idea/
+.vscode/
+*.imlgitr
