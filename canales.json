@@ -3,6 +3,8 @@
     "nombre": "TyC Sports",
     "emoji": "🇦🇷",
     "hora": "24/7",
+    "imagen_miniatura": "https://raw.githubusercontent.com/DanielNavarro99/futbol-canales/refs/heads/main/imagenes/TyCsport.jpeg",
+    "imagen_fondo": "",
     "fuentes": [
       { "label": "Fuente 1 - FutbolLibre", "url": "https://futbollibretv.su/tyc-sports/" },
       { "label": "Fuente 2 - LatamVidz", "url": "https://latamvidz1.com/canal.php?stream=tycsports" },
@@ -15,6 +17,8 @@
     "nombre": "DirecTV Sports",
     "emoji": "📡",
     "hora": "24/7",
+    "imagen_miniatura": "https://raw.githubusercontent.com/DanielNavarro99/futbol-canales/refs/heads/main/imagenes/DirectvSports.jpeg",
+    "imagen_fondo": "",
     "fuentes": [
       { "label": "Fuente 1 - FutbolLibre", "url": "https://futbollibretv.su/directv-sports/" },
       { "label": "Fuente 2 - LatamVidz", "url": "https://latamvidz1.com/canal.php?stream=dsports" },
@@ -26,6 +30,8 @@
     "nombre": "TNT Sports",
     "emoji": "💥",
     "hora": "24/7",
+    "imagen_miniatura": "https://raw.githubusercontent.com/DanielNavarro99/futbol-canales/refs/heads/main/imagenes/TNTsport.jpeg",
+    "imagen_fondo": "",
     "fuentes": [
       { "label": "Fuente 1 - LatamVidz", "url": "https://latamvidz1.com/canal.php?stream=tntsports" },
       { "label": "Fuente 2 - La14HD", "url": "https://la14hd.com/vivo/canal.php?stream=tntsports" },
@@ -37,6 +43,8 @@
     "nombre": "ESPN Premium",
     "emoji": "🏆",
     "hora": "24/7",
+    "imagen_miniatura": "https://raw.githubusercontent.com/DanielNavarro99/futbol-canales/refs/heads/main/imagenes/ESPApremiun.jpeg",
+    "imagen_fondo": "",
     "fuentes": [
       { "label": "Fuente 1 - LatamVidz", "url": "https://latamvidz1.com/canal.php?stream=espnpremium" },
       { "label": "Fuente 2 - La14HD", "url": "https://la14hd.com/vivo/canal.php?stream=espnpremium" },
@@ -48,6 +56,8 @@
     "nombre": "Fox Sports",
     "emoji": "🦊",
     "hora": "24/7",
+    "imagen_miniatura": "https://raw.githubusercontent.com/DanielNavarro99/futbol-canales/refs/heads/main/imagenes/FoxSport.jpeg",
+    "imagen_fondo": "",
     "fuentes": [
       { "label": "Fuente 1 - FutbolLibre", "url": "https://futbollibretv.su/fox-sports/" }
     ]
